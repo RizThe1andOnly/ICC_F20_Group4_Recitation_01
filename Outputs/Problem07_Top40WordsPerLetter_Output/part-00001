@@ -1,0 +1,8 @@
+('m', [('more', 3), ('much', 2), ('modern?', 1), ('marreduce', 1)])
+('n', [('name', 1), ('nosql', 1), ('no,', 1)])
+('o', [('of', 1), ('oh', 1), ('only', 1)])
+('p', [('perhaps', 1), ('prefer', 1), ('part', 1), ('pighive', 1)])
+('s', [('spark', 5), ('studying', 2), ('study', 2), ('say', 1), ('started', 1), ('spend', 1), ('some', 1), ('so', 1), ('shall', 1), ('sql', 1), ('supposed', 1)])
+('t', [('to', 5), ('this', 1), ('then', 1)])
+('w', [('world', 2), ('what', 2), ('which', 1), ('with', 1), ('want', 1)])
+('y', [('you', 1), ('your', 1)])

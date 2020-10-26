@@ -1,0 +1,22 @@
+a : (and,4) , (am,3) , (all,2) , (are,1) , (as,1) , (also,1) , (about,1) , 
+b : (but,3) , (bye,1) , (be,1) , (better,1) , 
+c : (compile,1) , (cloud,1) , (choose,1) , (can,1) , (compromise,1) , (computing,1) , 
+d : (do,2) , (debug,1) , (difficult,1) , (don't,1) , 
+f : (forget,2) , (familiar,1) , 
+a : ('and', 4)('am', 3)('all', 2)('are', 1)('as', 1)('also', 1)('about', 1)
+b : ('but', 3)('bye', 1)('be', 1)('better', 1)
+c : ('compile', 1)('cloud', 1)('choose', 1)('can', 1)('compromise', 1)('computing', 1)
+d : ('do', 2)('debug', 1)('difficult', 1)("don't", 1)
+f : ('forget', 2)('familiar', 1)
+g : ('get', 1)
+h : ('hadoop', 6)('how', 2)('have', 1)('hours', 1)('hello', 1)
+i : ('i', 9)('is', 4)('it', 2)('interested', 1)('in', 1)('it.', 1)("i'll", 1)("i'd", 1)
+l : ("let's", 1)
+m : ('more', 3)('much', 2)('modern?', 1)('marreduce', 1)
+n : ('name', 1)('nosql', 1)('no,', 1)
+o : ('of', 1)('oh', 1)('only', 1)
+p : ('perhaps', 1)('prefer', 1)('part', 1)('pighive', 1)
+s : ('spark', 5)('studying', 2)('study', 2)('say', 1)('started', 1)('spend', 1)('some', 1)('so', 1)('shall', 1)('sql', 1)('supposed', 1)
+t : ('to', 5)('this', 1)('then', 1)
+w : ('world', 2)('what', 2)('which', 1)('with', 1)('want', 1)
+y : ('you', 1)('your', 1)
